@@ -8,7 +8,7 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "golor",
-	Short: "A fast SVG file color swapper built in Go.",
+	Short: "A fast SVG color swapper made with Go 💙",
 }
 
 func Execute() {
